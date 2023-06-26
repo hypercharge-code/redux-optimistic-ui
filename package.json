@@ -41,9 +41,9 @@
     "cross-env": "^5.0.1",
     "immutable": "^3.8.1",
     "nyc": "^6.6.1",
-    "redux": "^3.6.0",
+    "redux": "4.2.0",
     "redux-devtools-instrument": "^1.8.2",
-    "rimraf": "^2.5.3",
+    "rimraf": "^3.0.2",
     "uglify-js": "^3.0.28"
   },
   "nyc": {
